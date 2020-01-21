@@ -1,0 +1,50 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+# Graphisoft Anti-license checks by Up7
+#127.0.0.1        wit-ams-cloudservice.cloudapp.net # cured by Dr.Web
+#127.0.0.1        licensemanager.graphisoft.com # cured by Dr.Web
+#127.0.0.1        licensemanager-test.graphisoft.com # cured by Dr.Web
+#127.0.0.1        bimx-api.graphisoft.com # cured by Dr.Web
+#127.0.0.1        licensemanager-subtest.graphisoft.com # cured by Dr.Web
+#127.0.0.1        graphisoftid-subtest.graphisoft.com # cured by Dr.Web
+#127.0.0.1        graphisoftid-test.graphisoft.com # cured by Dr.Web
+#127.0.0.1        graphisoftid.graphisoft.com # cured by Dr.Web
+#127.0.0.1        ruleservice-api-subscr-test.graphisoft.com # cured by Dr.Web
+#127.0.0.1        ruleservice-api-test.graphisoft.com # cured by Dr.Web
+#127.0.0.1        ruleservice-api.graphisoft.com # cured by Dr.Web
+#127.0.0.1        license-manager-api.azurewebsites.net # cured by Dr.Web
+#127.0.0.1        waws-prod-am2-069.vip.azurewebsites.windows.net # cured by Dr.Web
+#127.0.0.1        waws-prod-am2-069.cloudapp.net # cured by Dr.Web
+#127.0.0.1        e5486.g.akamaiedge.net # cured by Dr.Web
+#127.0.0.1        e8218.dscb1.akamaiedge.net # cured by Dr.Web
+#127.0.0.1        par10s22-in-f232.1e100.net # cured by Dr.Web
+#127.0.0.1        par10s28-in-f8.1e100.net # cured by Dr.Web
+#127.0.0.1        par10s34-in-f8.1e100.net # cured by Dr.Web
+#127.0.0.1        gs-com.cloudapp.net # cured by Dr.Web
+#127.0.0.1        usagelogger.graphisoft.com # cured by Dr.Web
+#127.0.0.1        poneytelecom.eu # cured by Dr.Web
+#127.0.0.1        swupdate.graphisoft.com # cured by Dr.Web
+
+127.0.0.1		dota2mods.ru
+127.0.0.1		dota2mods.com
+127.0.0.1		dota2mods.cn
+127.0.0.1		dota-2-skin-changer.ru
+127.0.0.1		dota2changer.com
